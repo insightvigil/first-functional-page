@@ -1,6 +1,5 @@
 ## My first web deployment 🚀
 
-
 ### Applied technologies 🧑‍💻
 - HTML
 - CSS
